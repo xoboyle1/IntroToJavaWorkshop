@@ -29,7 +29,7 @@ public class TriangleShell {
 	/* 2. fill in the method below to draw a triangle. Use the length variable for the size of the triangle. */
 	private void drawTriangle(int length) {
 		
-		int length.Nathan
+		
 		
 	}
 
